@@ -1,6 +1,6 @@
-def count_words(0):
+def count_words():
   word = input("Enter a statement :")
   word_count = len(word.split())
   print(word_count)
-count_words(0)
+count_words()
 
